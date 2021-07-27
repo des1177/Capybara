@@ -1,4 +1,4 @@
 // a cloud and React based Social Network
-// 芽芽不出来玩的
+// 没有芽芽小猫咪的日子，只有码字
 // using GoLang
 
